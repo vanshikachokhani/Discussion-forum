@@ -17,7 +17,8 @@ In the project directory,
 Both will download the npm dependancies
 
 ### `npm start` 
-In both the directories my-app and backend
+In both the directories my-app and backend.\
+
 Runs the client and server side concurrently.\
 Open [http://localhost:3000](http://localhost:3000) to view client side in the browser.\
 Open [http://localhost:8000](http://localhost:8000) to view server side in the browser.
